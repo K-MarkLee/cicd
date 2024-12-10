@@ -19,7 +19,7 @@ class CicdApplicationTests {
 	@Test
 	fun contextLoads() {
 	}
-
+	//주석
 	@Test
 	@DisplayName("/healthz 테스트")
 	fun testHomeContollerHealthz() {
